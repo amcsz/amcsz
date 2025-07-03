@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm a student interested in the crossroads between programming and cybersecurity.
+I'm a student interested in programming and cybersecurity. I use fedora btw
 <!--START_SECTION:waka-->
 
 ```txt
