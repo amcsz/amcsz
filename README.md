@@ -4,11 +4,11 @@ I'm a student interested in programming and cybersecurity. I use fedora btw
 <!--START_SECTION:waka-->
 
 ```txt
-JavaScript   2 hrs 48 mins   ██████████▒░░░░░░░░░░░░░░   41.51 %
-Docker       1 hr 37 mins    ██████░░░░░░░░░░░░░░░░░░░   23.99 %
-Bash         35 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.63 %
-YAML         30 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.47 %
-Astro        16 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.09 %
+JavaScript   2 hrs 56 mins   ███████░░░░░░░░░░░░░░░░░░   28.05 %
+Docker       2 hrs 7 mins    █████░░░░░░░░░░░░░░░░░░░░   20.27 %
+YAML         1 hr 30 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.45 %
+Python       55 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.85 %
+Bash         41 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.61 %
 ```
 
 <!--END_SECTION:waka-->
