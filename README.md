@@ -4,7 +4,7 @@ I'm a student interested in programming and cybersecurity. I use fedora btw
 <!--START_SECTION:waka-->
 
 ```python
-From: 29 June 2025 - To: 10 July 2025
+From: 29 June 2025 - To: 11 July 2025
 
 Total Time: 22 hrs 10 mins
 
