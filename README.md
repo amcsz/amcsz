@@ -4,17 +4,17 @@ I'm a student interested in programming and cybersecurity. I use fedora btw
 <!--START_SECTION:waka-->
 
 ```python
-From: 29 June 2025 - To: 12 July 2025
+From: 29 June 2025 - To: 13 July 2025
 
-Total Time: 23 hrs 7 mins
+Total Time: 24 hrs 32 mins
 
-Python       9 hrs 18 mins   ██████████░░░░░░░░░░░░░░░   39.41 %
-JavaScript   4 hrs 44 mins   █████░░░░░░░░░░░░░░░░░░░░   20.10 %
-Docker       2 hrs 11 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.30 %
-YAML         1 hr 37 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.86 %
-HTML         1 hr 34 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.66 %
-Bash         1 hr 29 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.30 %
-Other        29 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.06 %
+Python       10 hrs 15 mins  ██████████▒░░░░░░░░░░░░░░   40.97 %
+JavaScript   4 hrs 54 mins   █████░░░░░░░░░░░░░░░░░░░░   19.64 %
+Docker       2 hrs 11 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   08.78 %
+HTML         1 hr 48 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   07.22 %
+YAML         1 hr 37 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.47 %
+Bash         1 hr 29 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.99 %
+Other        29 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.95 %
 ```
 
 <!--END_SECTION:waka-->
