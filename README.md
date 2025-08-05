@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm a student interested in programming and cybersecurity. I use fedora btw
+I'm a student interested in programming and cybersecurity.
 <!--START_SECTION:waka-->
 
 ```python
