@@ -4,7 +4,7 @@ I'm a student interested in programming and cybersecurity.
 <!--START_SECTION:waka-->
 
 ```python
-From: 29 June 2025 - To: 04 August 2025
+From: 29 June 2025 - To: 05 August 2025
 
 Total Time: 71 hrs 30 mins
 
