@@ -13,7 +13,7 @@ I use Fedora Linux as my main operating system. I use vscode as my primary code 
 ### Language Statistics
 <!--START_SECTION:waka-->
 
-```javascript
+```txt
 From: 29 June 2025 - To: 11 August 2025
 
 Total Time: 89 hrs 19 mins
