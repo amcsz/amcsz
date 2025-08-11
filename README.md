@@ -9,3 +9,9 @@ Here are some of my favorite projects I've worked on:
 
 ### Computer Setup
 I use Fedora Linux as my main operating system. I use vscode as my primary code editor.
+
+### Language Statistics
+<!--START_SECTION:waka-->
+
+
+<!--END_SECTION:waka-->
