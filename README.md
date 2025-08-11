@@ -8,20 +8,20 @@ Language stats:
 <!--START_SECTION:waka-->
 
 ```python
-From: 29 June 2025 - To: 08 August 2025
+From: 29 June 2025 - To: 09 August 2025
 
-Total Time: 82 hrs 32 mins
+Total Time: 87 hrs 12 mins
 
-Python            29 hrs 16 mins  ████████▓░░░░░░░░░░░░░░░░   34.80 %
-C++               9 hrs 45 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.60 %
-JavaScript        9 hrs 21 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   11.12 %
-HTML              8 hrs 37 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.26 %
-Rust              6 hrs 48 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.08 %
-Bash              5 hrs 14 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.24 %
-Docker            3 hrs 48 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   04.54 %
-YAML              2 hrs 51 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   03.40 %
-Text              1 hr 47 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.13 %
-Other             1 hr 36 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.91 %
+Python            30 hrs 5 mins   ████████▒░░░░░░░░░░░░░░░░   33.84 %
+C++               9 hrs 45 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.98 %
+Rust              9 hrs 37 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.82 %
+JavaScript        9 hrs 21 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.53 %
+HTML              8 hrs 57 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.08 %
+Bash              5 hrs 41 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.41 %
+Docker            3 hrs 57 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   04.46 %
+YAML              2 hrs 55 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.29 %
+Text              1 hr 48 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.03 %
+Other             1 hr 42 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.91 %
 ```
 
 <!--END_SECTION:waka-->
