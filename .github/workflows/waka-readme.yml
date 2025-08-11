@@ -17,7 +17,6 @@ jobs:
           SECTION_NAME: waka # optional
           BLOCKS: -> # optional
           TIME_RANGE: all_time # optional
-          CODE_LANG: javascript
           LANG_COUNT: 7 # optional
           SHOW_TIME: true # optional
           SHOW_TOTAL: true # optional
