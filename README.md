@@ -1,5 +1,8 @@
-## Hi there 👋
+## Hey there!
 
-I'm a student interested in programming and cybersecurity.
+I'm a programmer, hacker, and builder from TJHSST.
 
-[![amcsz's GitHub stats](https://github-readme-stats.vercel.app/api?username=amcsz&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
+### Programming Experience
+Here are some of my favorite projects I've worked on:
+- TJ Computer Team Autograder
+  - I created a [new autograder website](https://github.com/TJ-Computer-Team/autograder2) in place of the previous one, written in python + django. The website uses [celery](https://github.com/celery/celery) for queue management with the [coderunner](https://github.com/TJ-Computer-Team/coderunner), which I wrote in rust.
