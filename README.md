@@ -1,4 +1,5 @@
-## Hey there!
+## Hey, I'm Samuel!
+[![wakatime](https://wakatime.com/badge/user/879aea6b-e969-410f-b0b6-2bb4510bea6f.svg)](https://wakatime.com/@879aea6b-e969-410f-b0b6-2bb4510bea6f)
 
 I'm a programmer, hacker, and student at TJHSST (Class of 2028).
 
