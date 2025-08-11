@@ -1,6 +1,6 @@
 ## Hey there!
 
-I'm a programmer, hacker, and builder from TJHSST.
+I'm a programmer, hacker, and builder at TJHSST.
 
 ### Programming Experience
 Here are some of my favorite projects I've worked on:
