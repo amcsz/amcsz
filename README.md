@@ -15,17 +15,17 @@ I use Fedora Linux as my main operating system. I use vscode as my primary code 
 <!--START_SECTION:waka-->
 
 ```txt
-From: 29 June 2025 - To: 11 August 2025
+From: 29 June 2025 - To: 12 August 2025
 
-Total Time: 89 hrs 19 mins
+Total Time: 89 hrs 33 mins
 
-Python            31 hrs 5 mins   >>>>>>>>>----------------   34.15 %
-Rust              10 hrs 27 mins  >>>----------------------   11.49 %
-C++               9 hrs 51 mins   >>>----------------------   10.82 %
-JavaScript        9 hrs 21 mins   >>>----------------------   10.28 %
-HTML              8 hrs 57 mins   >>-----------------------   09.84 %
-Bash              5 hrs 41 mins   >>-----------------------   06.26 %
-Docker            3 hrs 57 mins   >------------------------   04.36 %
+Python            31 hrs 5 mins   >>>>>>>>>----------------   34.07 %
+Rust              10 hrs 27 mins  >>>----------------------   11.46 %
+C++               9 hrs 51 mins   >>>----------------------   10.80 %
+JavaScript        9 hrs 21 mins   >>>----------------------   10.26 %
+HTML              8 hrs 57 mins   >>-----------------------   09.82 %
+Bash              5 hrs 41 mins   >>-----------------------   06.24 %
+Docker            4 hrs 7 mins    >------------------------   04.52 %
 ```
 
 <!--END_SECTION:waka-->
