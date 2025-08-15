@@ -15,7 +15,7 @@ I use Fedora Linux as my main operating system. I use vscode as my primary code 
 <!--START_SECTION:waka-->
 
 ```txt
-From: 29 June 2025 - To: 13 August 2025
+From: 29 June 2025 - To: 14 August 2025
 
 Total Time: 89 hrs 33 mins
 
