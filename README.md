@@ -15,17 +15,17 @@ I use Fedora Linux as my main operating system.
 <!--START_SECTION:waka-->
 
 ```txt
-From: 29 June 2025 - To: 18 August 2025
+From: 29 June 2025 - To: 19 August 2025
 
-Total Time: 95 hrs 24 mins
+Total Time: 95 hrs 35 mins
 
-Python            31 hrs 30 mins  >>>>>>>>-----------------   32.44 %
-Rust              10 hrs 27 mins  >>>----------------------   10.76 %
-C++               9 hrs 51 mins   >>>----------------------   10.14 %
-JavaScript        9 hrs 21 mins   >>-----------------------   09.64 %
-HTML              8 hrs 57 mins   >>-----------------------   09.22 %
-Bash              5 hrs 42 mins   >------------------------   05.87 %
-C                 5 hrs 34 mins   >------------------------   05.74 %
+Python            31 hrs 39 mins  >>>>>>>>-----------------   32.53 %
+Rust              10 hrs 27 mins  >>>----------------------   10.74 %
+C++               9 hrs 51 mins   >>>----------------------   10.12 %
+JavaScript        9 hrs 21 mins   >>-----------------------   09.62 %
+HTML              8 hrs 57 mins   >>-----------------------   09.21 %
+Bash              5 hrs 42 mins   >------------------------   05.86 %
+C                 5 hrs 34 mins   >------------------------   05.73 %
 ```
 
 <!--END_SECTION:waka-->
