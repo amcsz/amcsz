@@ -12,16 +12,16 @@ Here are some of my favorite projects I've worked on:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 29 June 2025 - To: 24 August 2025
+From: 29 June 2025 - To: 25 August 2025
 
-Total Time: 99 hrs 52 mins
+Total Time: 100 hrs 21 mins
 
-Python            32 hrs 52 mins  >>>>>>>>-----------------   32.23 %
-Rust              10 hrs 27 mins  >>>----------------------   10.25 %
-C++               9 hrs 51 mins   >>-----------------------   09.66 %
-JavaScript        9 hrs 21 mins   >>-----------------------   09.18 %
-HTML              8 hrs 57 mins   >>-----------------------   08.78 %
-Bash              5 hrs 42 mins   >------------------------   05.59 %
+Python            33 hrs 5 mins   >>>>>>>>-----------------   32.29 %
+Rust              10 hrs 27 mins  >>>----------------------   10.20 %
+C++               9 hrs 52 mins   >>-----------------------   09.63 %
+JavaScript        9 hrs 21 mins   >>-----------------------   09.13 %
+HTML              8 hrs 57 mins   >>-----------------------   08.74 %
+Bash              5 hrs 42 mins   >------------------------   05.56 %
 ```
 
 <!--END_SECTION:waka-->
