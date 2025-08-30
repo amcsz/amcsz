@@ -12,7 +12,7 @@ Here are some of my favorite projects I've worked on:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 29 June 2025 - To: 28 August 2025
+From: 29 June 2025 - To: 29 August 2025
 
 Total Time: 101 hrs 32 mins
 
