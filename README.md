@@ -1,4 +1,4 @@
-## Hey, I'm Samuel!
+## Hi there!
 
 I'm a programmer, hacker, and student at TJHSST (Class of 2028).
 
