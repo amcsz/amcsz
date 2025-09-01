@@ -11,16 +11,16 @@ I'm a programmer, hacker, and student at TJHSST (Class of 2028).
 <!--START_SECTION:waka-->
 
 ```txt
-From: 29 June 2025 - To: 30 August 2025
+From: 29 June 2025 - To: 31 August 2025
 
-Total Time: 101 hrs 32 mins
+Total Time: 101 hrs 55 mins
 
-Python            33 hrs 28 mins  >>>>>>>>-----------------   32.24 %
-Rust              10 hrs 27 mins  >>>----------------------   10.07 %
-C++               10 hrs 2 mins   >>-----------------------   09.67 %
-JavaScript        9 hrs 21 mins   >>-----------------------   09.01 %
-HTML              9 hrs 2 mins    >>-----------------------   08.71 %
-Bash              5 hrs 42 mins   >------------------------   05.49 %
+Python            33 hrs 28 mins  >>>>>>>>-----------------   32.12 %
+Rust              10 hrs 27 mins  >>>----------------------   10.03 %
+C++               10 hrs 2 mins   >>-----------------------   09.64 %
+JavaScript        9 hrs 22 mins   >>-----------------------   08.99 %
+HTML              9 hrs 2 mins    >>-----------------------   08.68 %
+Bash              5 hrs 42 mins   >------------------------   05.47 %
 ```
 
 <!--END_SECTION:waka-->
