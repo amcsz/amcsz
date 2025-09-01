@@ -1,12 +1,5 @@
-## Hi there!
-
-I'm a programmer, hacker, and student at TJHSST (Class of 2028).
-
-### Programming Experience
-- TJ Computer Team Autograder
-  - I created a [new autograder website](https://github.com/TJ-Computer-Team/autograder2) for our school's computer team, written in python + django. The website uses [celery](https://github.com/celery/celery) as a task queue to communicate with the [code running server](https://github.com/TJ-Computer-Team/coderunner) that handles user code submissions, which I wrote in rust.
-
-### Stats
+### Hi there!
+[My Website](https://amcsz.me/)
 [![wakatime](https://wakatime.com/badge/user/879aea6b-e969-410f-b0b6-2bb4510bea6f.svg)](https://wakatime.com/@879aea6b-e969-410f-b0b6-2bb4510bea6f)
 <!--START_SECTION:waka-->
 
