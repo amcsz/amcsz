@@ -1,6 +1,5 @@
 [my website](https://amcsz.me/)
 
-##### Wakatime Stats
 [![wakatime](https://wakatime.com/badge/user/879aea6b-e969-410f-b0b6-2bb4510bea6f.svg)](https://wakatime.com/@879aea6b-e969-410f-b0b6-2bb4510bea6f)
 <!--START_SECTION:waka-->
 
