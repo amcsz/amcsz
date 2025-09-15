@@ -2,16 +2,16 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 29 June 2025 - To: 13 September 2025
+From: 29 June 2025 - To: 14 September 2025
 
-Total Time: 121 hrs 27 mins
+Total Time: 122 hrs 9 mins
 
-Python             43 hrs 1 min    >>>>>>>>>----------------   34.61 %
-C++                12 hrs 39 mins  >>>----------------------   10.19 %
-Rust               10 hrs 27 mins  >>-----------------------   08.41 %
-JavaScript         9 hrs 49 mins   >>-----------------------   07.91 %
-HTML               9 hrs 21 mins   >>-----------------------   07.53 %
-Bash               6 hrs 38 mins   >------------------------   05.34 %
+Python             43 hrs 19 mins  >>>>>>>>>----------------   34.66 %
+C++                12 hrs 39 mins  >>>----------------------   10.13 %
+Rust               10 hrs 27 mins  >>-----------------------   08.36 %
+JavaScript         9 hrs 49 mins   >>-----------------------   07.86 %
+HTML               9 hrs 21 mins   >>-----------------------   07.48 %
+Bash               6 hrs 47 mins   >------------------------   05.43 %
 ```
 
 <!--END_SECTION:waka-->
